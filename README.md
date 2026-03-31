@@ -21,6 +21,7 @@ Tacit: Designed for developers who "don't do design." It makes everything look p
 For when you want your website to tell a story through its style.
 
 Nes.css: For that nostalgic 8-bit, retro-gaming aesthetic. 🎮
+
 sybrenium-classic: packed with classes for animations, fonts,elements, in descriptive way
 Paper CSS: Gives your UI elements a physical, paper-like texture and subtle shadows. 📝
 
